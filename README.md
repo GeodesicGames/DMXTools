@@ -17,4 +17,7 @@ Tutorial - https://youtu.be/lcj4G2-V6gw
 5. Follower - Tool to drive multiple DMX fixtures through the use of a follow actor. Selected actors will rotate and direct the beam towards the follow actor for sequence control in 4.25 <br />
 Tutorial - https://youtu.be/OufZouPsxIk
 
+6. Playback Widget (Play to Marks) - Easily mark start and stop cues in the sequencer to be triggered via the provided editor utility widget. <br />
+Tutorial - https://youtu.be/lUujPvjzIxc
+
 Additionally, you can find a free library of UE4 DMX fixtures at https://github.com/LexyVFX/Unreal-DMX-Fixture-Library. Thanks LexyVFX!
